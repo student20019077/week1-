@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,7 +14,7 @@ namespace htel
 
         {
 
-            Console.WriteLine("\t\t\tWelcome to sydney hotel");
+            Console.WriteLine("\t\t\tWelcome to Sydney Luxury Hotel");
             int i = 0;
             string[] name = new string[20];
             int[] night = new int[20];
@@ -137,5 +137,6 @@ namespace htel
 
         }
     }
+} Console.WriteLine("\nThank you for using our reservation system!");
     }
 
